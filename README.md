@@ -1,6 +1,8 @@
 # covid_19
 
-A new Flutter project.
+A project made using flutter to track and display the spread of the corona virus.
+
+
 
 ## Getting Started
 
